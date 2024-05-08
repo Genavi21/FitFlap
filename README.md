@@ -25,6 +25,7 @@ To run FitFlap locally, follow these steps:
    git clone https://github.com/Genavi21/fitflap.git
 2. Get your firebase config from your firebase dashboard.
 3. Change the "HIDDEN" to a mobile number for getting notifications.
+4. Open "index.html" in your browser.
 
 ## Contributing
 We welcome contributions from you! If you'd like to contribute to FitFlap, please follow these guidelines:
