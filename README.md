@@ -37,5 +37,5 @@ We welcome contributions from you! If you'd like to contribute to FitFlap, pleas
 6. Submit a pull request to the main repository.
 
 
-Contact
+## Contact
 For any inquiries or feedback, please contact me at genavigyaneshwari4@gmail.com.
