@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Home Page</title>
+	<link rel="stylesheet" type="text/css" href="slide navbar style.css">
+    <link rel="stylesheet" href="index.css">
+    
+    <script src="https://www.gstatic.com/firebasejs/8.2.3/firebase.js"></script>
+    <script async src="init_fb.js" type="text/javascript"></script>
+    
+    <link href="https://fonts.googleapis.com/css2?family=Jost:wght@500&display=swap" rel="stylesheet">
+</head>
+<body>
+	<div class="main" style="width: 30%">  	
+		<input type="checkbox" id="chk" aria-hidden="true">
+		
+		<div class="signup">
+			<label for="#chk" aria-hidden="true">Welcome</label>
+			<input id="id" type="number" name="RoomID" placeholder="Room ID">
+			<input id="pass" type="password" name="pswd" placeholder="Password">
+			<input id="name" type="text" name="txt" placeholder="User name">
+			<button onclick="stateHandle1()">Enter</button>
+			<!-- Move the h5 element here -->
+			<h5 style="color: aliceblue; align-content: center; text-align: center">For testing, use Room ID - 1, Password - Password</h5>
+		</div>
+
+		<div class="login">
+			<label for="chk" aria-hidden="true">Create Room</label>
+			<input id="new_name" type="text" name="username" placeholder="User Name">
+			<input id="new_pass" type="password" name="pswd" placeholder="Create Password">
+			<button onclick="stateHandle2()">Create</button>
+			<h3 style="color: #2C2A2A; align-content: center; text-align: center">STILL UNDER DEVELOPMENT!</h3>
+		</div>
+	</div>
+</body>
+</html>
