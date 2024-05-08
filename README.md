@@ -16,7 +16,12 @@ FitFlap is a unique fitness game that combines the addictive gameplay of Flappy 
 - **HTML, CSS, JavaScript:** Frontend development for the game interface.
 - **Google Firebase:** Cloud database used for real-time data management and synchronization.
 
-## Installation
+## Hosting
+1. You can play this game at : https://webgame-fc286.web.app/
+   Room ID : 1
+   Password : Password
+
+## Running Locally
 
 To run FitFlap locally, follow these steps:
 
