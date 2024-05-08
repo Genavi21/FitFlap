@@ -18,7 +18,9 @@ FitFlap is a unique fitness game that combines the addictive gameplay of Flappy 
 
 ## Hosting
 1. You can play this game at : https://webgame-fc286.web.app/
+   
    Room ID : 1
+
    Password : Password
 
 ## Running Locally
