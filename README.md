@@ -25,3 +25,17 @@ To run FitFlap locally, follow these steps:
    git clone https://github.com/your-username/fitflap.git
 2. Get your firebase config from your firebase dashboard.
 3. Change the "HIDDEN" to a mobile number for getting notifications.
+
+## Contributing
+We welcome contributions from you! If you'd like to contribute to FitFlap, please follow these guidelines:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and test thoroughly.
+4. Commit your changes with clear and descriptive messages.
+5. Push your changes to your fork.
+6. Submit a pull request to the main repository.
+
+
+Contact
+For any inquiries or feedback, please contact me at genavigyaneshwari4@gmail.com.
